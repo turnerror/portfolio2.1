@@ -1,2 +1,2 @@
-# portfolio2.1
-lol
+# portfolio2.0
+My updated portfolio (hopefully) applying my better front end skills (but not neccessarily design skills lol). hopefully also a touch less css....
