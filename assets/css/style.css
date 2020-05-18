@@ -333,11 +333,20 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h2 {
   color: #eee;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   font-size: 13px;
   font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
+}
+
+#hero .hero-links  {
+  margin-bottom: 30px;
+  font-size: 25px;
+}
+
+#hero .hero-links a {
+  color: white;
 }
 
 #hero .btn-scroll {
