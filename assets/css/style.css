@@ -582,12 +582,10 @@ section {
 /*--------------------------------------------------------------
 # My Resume
 --------------------------------------------------------------*/
-.resume .resume-title {
+.resume-title {
   font-size: 26px;
   font-weight: 700;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  color: #3b434a;
+  text-decoration: underline;
 }
 
 .resume .resume-item {
