@@ -612,6 +612,7 @@ section {
 
 .portfolio .portfolio-item .portfolio-img {
   overflow: hidden;
+  box-shadow: rgba(68, 68, 144, 0.3) 0 10px 29px 0;
 }
 
 .portfolio .portfolio-item .portfolio-img img {
